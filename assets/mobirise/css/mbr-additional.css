@@ -642,10 +642,10 @@ a {
   background: #ffcc00;
 }
 .cid-sgRvQDSyRh .row-item.card2 {
-  background: #f29f05;
+  background: #ffcc00;
 }
 .cid-sgRvQDSyRh .row-item.card3 {
-  background: #f29f05;
+  background: #ffcc00;
 }
 .cid-sgRvQDSyRh .row-item.card4 {
   background: #ffcc00;
@@ -692,16 +692,17 @@ a {
 }
 .cid-sgRvQDSyRh .card3 > .mbr-text,
 .cid-sgRvQDSyRh .card3 > .mbr-section-btn {
-  text-align: left;
+  text-align: center;
   color: #000000;
 }
 .cid-sgRvQDSyRh .card4 > .mbr-text,
 .cid-sgRvQDSyRh .card4 > .mbr-section-btn {
-  text-align: left;
+  text-align: center;
 }
 .cid-sgRvQDSyRh .card2 > .mbr-text,
 .cid-sgRvQDSyRh .card2 > .mbr-section-btn {
   color: #000000;
+  text-align: center;
 }
 .cid-sgRvQDSyRh .card2 > .mbr-card-title,
 .cid-sgRvQDSyRh .card2 > .card-img {
@@ -710,6 +711,10 @@ a {
 .cid-sgRvQDSyRh .card3 > .mbr-card-title,
 .cid-sgRvQDSyRh .card3 > .card-img {
   color: #000000;
+}
+.cid-sgRvQDSyRh .card1 > .mbr-text,
+.cid-sgRvQDSyRh .card1 > .mbr-section-btn {
+  text-align: center;
 }
 .cid-sgRvSF1w7C {
   padding-top: 0rem;
