@@ -195,15 +195,15 @@
               "text-align": "left"
             },
             ".card3>.mbr-text,.card3>.mbr-section-btn": {
-              "text-align": "center",
+              "text-align": "left",
               "color": "#000000"
             },
             ".card4>.mbr-text,.card4>.mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             },
             ".card2>.mbr-text,.card2>.mbr-section-btn": {
               "color": "#000000",
-              "text-align": "center"
+              "text-align": "left"
             },
             ".card2>.mbr-card-title,.card2>.card-img": {
               "color": "#000000"
@@ -212,7 +212,7 @@
               "color": "#000000"
             },
             ".card1>.mbr-text,.card1>.mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_name": "features7",
